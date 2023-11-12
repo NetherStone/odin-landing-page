@@ -34,10 +34,15 @@ a{
     justify-content: center;
     align-items: center;
     background-color: #1F2937;
+    min-height: 400px;
+    gap: 230px;
 }
 
 .left{
+    display: flex;
+    flex-direction: column;
     width: 400px;
+    gap: 5px;
 }
 
 .awesome{
@@ -60,7 +65,13 @@ button{
 }
 
 #first_button{
-    padding: 6px 28px;
+    max-width: 120px;
+    min-height: 35px;
     border: #3882F6;
     font-weight: bold;
+}
+
+#water_ripple{
+    height: 225px;
+    width: 500px;
 }
