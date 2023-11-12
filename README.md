@@ -12,6 +12,4 @@ Stars on Clear, Night Sky over Lake and Hills Silhouette, by Sandro Tedeschini, 
 
 Sun Rays Shining into the Tunnel, by Anh Nguyen, https://www.pexels.com/photo/sun-rays-shining-into-the-tunnel-18873778/
 
-
-
-
+Back Lit Louvre at Sunset, by Matteus Silva, https://www.pexels.com/photo/back-lit-louvre-at-sunset-5976826/
