@@ -133,3 +133,14 @@ button{
     margin-left: 30%;
     font-size: 22px;
 }
+
+.blue_container {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.big_text {
+    font-size: 24px;
+    font-weight: bold;
+}
