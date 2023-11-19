@@ -109,3 +109,18 @@ button{
     height: 350px;
     width: 220px;
 }
+
+.third_q {
+    background-color: #E5E7EB;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.quote_text {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.quote_writer {
+    counter-reset: #05090f;
+}
