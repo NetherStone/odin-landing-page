@@ -134,10 +134,23 @@ button{
     font-size: 22px;
 }
 
+.fourth_q{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 330px;
+}
+
 .blue_container {
     background-color: #3882F6;
     color: #F9FAF8;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Times, serif;
+    display: flex;
+    width: 50%;
+    height: 128px;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .big_text {
