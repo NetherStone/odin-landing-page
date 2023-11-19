@@ -81,7 +81,7 @@ button{
     flex-direction: column;
     gap: 40px;
     margin-top: 50px;
-    margin-bottom: 110px;
+    margin-bottom: 100px;
 }
 
 .r_text {
@@ -113,14 +113,23 @@ button{
 .third_q {
     background-color: #E5E7EB;
     font-family: 'Times New Roman', Times, serif;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .quote_text {
     font-style: italic;
     font-size: 36px;
     color: #1F2937;
+    width: 40%;
 }
 
 .quote_writer {
-    counter-reset: #05090f;
+    color: #05090f;
+    font-weight: bold;
+    margin-left: 30%;
+    font-size: 22px;
 }
