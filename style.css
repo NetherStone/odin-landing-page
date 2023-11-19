@@ -79,7 +79,9 @@ button{
 .second_q {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 40px;
+    margin-top: 50px;
+    margin-bottom: 125px;
 }
 
 .r_text {
