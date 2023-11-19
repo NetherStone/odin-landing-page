@@ -91,4 +91,12 @@ button{
 
 .container {
     display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.text_plus_image {
+    display: flex;
+    flex-direction: column;
+    width: 220px;
 }
